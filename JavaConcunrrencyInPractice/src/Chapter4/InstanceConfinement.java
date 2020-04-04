@@ -27,7 +27,7 @@ public class InstanceConfinement {
 
 /**
  * @author amitg
- * if  class is not Thread Safe then can make it Thread safe or ca use lock on Perosn object while
+ * if  class is not Thread Safe then can make it Thread safe or ca use lock on Person object while
  * performing any operation on the Person Object
  */
 class Person{
