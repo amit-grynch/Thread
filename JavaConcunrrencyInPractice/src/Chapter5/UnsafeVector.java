@@ -10,7 +10,7 @@ public class UnsafeVector {
 
 	/**
 	 * @param vector
-	 * @return Not Threadsafe , not make it atomic, need to aquire the lock of
+	 * @return Not Threadsafe , To make it atomic, need to aquire the lock of
 	 *         Synchronized Collection Lock
 	 */
 	public static Object getLast(Vector vector) {
@@ -22,7 +22,7 @@ public class UnsafeVector {
 
 	/**
 	 * @param vector
-	 *            Not Threadsafe , not make it atomic, need to aquire the lock of
+	 *            Not Threadsafe , To make it atomic, need to aquire the lock of
 	 *            Synchronized Collection Lock
 	 */
 	public static void deleteLast(Vector vector) {
