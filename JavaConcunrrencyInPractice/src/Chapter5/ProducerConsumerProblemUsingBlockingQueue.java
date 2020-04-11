@@ -3,7 +3,7 @@ package Chapter5;
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
 
-public class ProducerConsumerProblem {
+public class ProducerConsumerProblemUsingBlockingQueue {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
