@@ -11,8 +11,8 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 
 /**
- * @author amitg
- *  Using CompletionService to computation of Multiplication of integer and There are multiple tasks
+ * @author amitg Using CompletionService to computation of Multiplication of
+ *         integer and There are multiple tasks
  */
 public class CompletionServiceTest {
 
