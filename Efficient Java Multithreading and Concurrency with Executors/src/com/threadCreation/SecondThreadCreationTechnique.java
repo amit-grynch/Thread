@@ -9,6 +9,7 @@ public class SecondThreadCreationTechnique {
 
 }
 
+//Thread Cum Task Definition
 class SceondThread extends Thread {
 	int count = 0;
 	int id = 0;
